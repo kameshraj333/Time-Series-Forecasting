@@ -35,7 +35,10 @@ Evaluate your model's performance using metrics like Mean Squared Error (MSE) an
 Analyze the evaluation results to identify potential improvements. If your data exhibits non-stationarity, you might need to apply transformations (like differencing) to make it stationary before refining your model.
 The Transformation:
 
-By conquering this project, you'll transform from a data novice into a time series forecasting professional. You'll possess a powerful skillset to:
+By conquering this project, 
+The transform from a data novice into a time series forecasting professional. 
+
+I gained the skill set of
 
 Clean and prepare time series data for analysis, including ensuring stationarity.
 Identify and understand patterns and trends within sequential data.
@@ -44,7 +47,3 @@ Evaluate and refine models for optimal forecasting accuracy.
 ![image](https://github.com/kameshraj333/Time-Series-Forecasting/assets/162411498/0db3bd6b-9aea-4418-80a9-41fbe9823d58)
 ![image](https://github.com/kameshraj333/Time-Series-Forecasting/assets/162411498/9870ab31-d0c8-47e1-8bb3-45b4a7f3ca80)
 ![image](https://github.com/kameshraj333/Time-Series-Forecasting/assets/162411498/464a5725-a324-406a-83cf-c23eeac02d0d)
-
-
-
-
